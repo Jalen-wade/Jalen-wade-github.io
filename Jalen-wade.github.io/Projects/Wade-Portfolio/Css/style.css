@@ -1,0 +1,99 @@
+style.css
+#About{
+	background-color: black 
+}
+
+h1{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+	font-color:red;
+}
+	#Side p{
+	 font-style: "Libre Franklin", sans-serif;
+	color: red;
+	font-size: 60px;
+}
+
+
+ h2{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+	font-weight: 400%;
+	font-color:red;
+}
+
+p{
+	font-family: "Source Sans Pro", sans-serif;
+	
+	font-color:#FF0000;
+
+	color:red
+}
+
+#h3{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+	font-weight: 400%;
+	font-color:red;
+	padding-left: 10%;
+}
+
+h3{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+	font-weight: 400%;
+	font-color:red;
+}
+
+h4{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+	font-weight: 400%;
+	font-color:red;
+}
+h5{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+	font-weight: 400%;
+	font-color:red;
+}
+h6{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+	font-weight: 400%;
+	font-color:red;
+}
+h7{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+	font-weight: 400%;
+	font-color:red;
+}
+
+#headline1{
+font-family: 'Libre Franklin', sans-serif;	
+}
+#gym{width: 80%;
+height: 60%;
+}
+#headline2{
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+@media(max-width: 768px){
+	#side{text-align: left;
+		font-size: 20px;
+	}
+	p{
+		font-size: 40px;
+	}
+@media(max-width: 991px){
+
+	#side{text-align: left;
+		font-size: 60px;
+	}
+	p{
+		font-size: 60px;
+	}
+
+
