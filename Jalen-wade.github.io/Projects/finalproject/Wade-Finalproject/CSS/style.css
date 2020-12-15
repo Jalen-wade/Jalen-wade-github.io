@@ -4,45 +4,82 @@ style.css
 body{background-color: white;}
 
 
+}
+
+h1{
+	font-color: blue;
+	font-style: "Libre Franklin", sans-serif;
+	font-size: 20px;
+	font-weight: 100%;}
+#planechart{
+	max-width: 100%;
+}
+
+
 p{
 color: blue;
 background-color: white;
 font-family: "Source Sans Pro", sans-serif;}
 
-#B-1{font-family: "Source Sans Pro", sans-serif;
-font-color:blue;}
+#B-1{
+	font-family: "Source Sans Pro", sans-serif;
+	font-color:blue;}
 
 #B{
 	font-family: "Source Sans Pro", sans-serif;
-font-color:blue;
+	font-color:blue;
 }
 
 
 #C{
 	font-family: "Source Sans Pro", sans-serif;
-font-color:blue;}
+	font-color:blue;}
 #D{
 	font-family: "Source Sans Pro", sans-serif;
-font-color:blue;
+	font-color:blue;
+
+
+
+@media(max-width: 320px){
+p{
+		font-size: 40px;
+		width: 100%;
+	}
+
+#hotel{
+	max-width: 100%;
 }
 
-h1{color: blue;
-font-style: "Libre Franklin", sans-serif;
-font-size: 20px;
-font-weight: 400%;}
-
-
-
+h1{
+	width: 100%;
+}
+a{
+	width: 100%;
+	font-size: 100px;
+	max-height: 100%;
+	text-align:left;
+}
+#D{
+	font-size: 40px;
+}
 
 @media(max-width: 768px){
 p{
 		font-size: 40px;
+		width: 100%;
 	}
-@media(max-width: 991px){
+h1{
+	width: 100%;
+}
+a{
+	width: 100%;
+	font-size: 50px;
+}
+#D{
+	font-size: 40px;
+}
+@media(max-width: 1020px){
 
-	#side{text-align: left;
-		font-size: 60px;
-	}
-	p{
-		font-size: 60px;
-	}
+	#hotel{max-width: 100%}
+
+
