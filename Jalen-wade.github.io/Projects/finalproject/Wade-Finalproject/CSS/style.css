@@ -6,8 +6,8 @@ body{background-color: white;}
 
 }
 
-h1{
-	font-color: blue;
+ h1{
+	
 	font-style: "Libre Franklin", sans-serif;
 	font-size: 20px;
 	font-weight: 100%;}
@@ -37,6 +37,17 @@ font-family: "Source Sans Pro", sans-serif;}
 #D{
 	font-family: "Source Sans Pro", sans-serif;
 	font-color:blue;}
+
+#headline{
+	bottom: 100%;
+	
+
+}	
+
+#headline2{
+	bottom: 100%;
+	
+}	
 
 #plane{
 	width: 100%;
