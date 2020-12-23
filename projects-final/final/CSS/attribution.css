@@ -1,8 +1,0 @@
-.cnbc::before{
-content: "—CNBC";
-font-family: 'Libre Franklin', sans-serif;
-font-size: 9px;
-display: block;
-text-align: right;
-text-transform: uppercase;
-}
